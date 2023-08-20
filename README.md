@@ -13,5 +13,5 @@
 ![tailwindcss](https://img.shields.io/badge/-tailwind-090909?style=for-the-badge&logo=tailwindcss)
 
 ### Контакты
-[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/ZaharElistratovDev)
+[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/ZaharElistratov)
 [![gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:zaharelistratov12@gmail.com)
